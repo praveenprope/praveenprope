@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Atish Kumar</h1>
+<h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 - 🎓 I’ve completed my graduation in **B.Voc (Software Development)**
 - 👀 I’m interested in **Web & Software Development**
 - 🤝 I’m looking to collaborate on **software-related projects**
-- 📫 How to reach me: **atishr334@gmail.com**
+- 📫 How to reach me: **praveenprope@gmail.com**
 - ### ⚡ GitHub Profile Views
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -101,9 +101,9 @@
 <h2 align="center">🌐 Connect with Me:</h2>
 
 <p align="center">
-  <a href="mailto:atishr334@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/atish0117"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:praveenprope@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/praveenprope"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/praveen-kumar-197763300/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 
